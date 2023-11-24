@@ -5,6 +5,7 @@ public class ejercicio1 {
 		// TODO Auto-generated method stub
 System.out.println("Hola, soy Rosario");
 System.out.println("Estot en desarrollo");
+System.out.println("Estoy en desarollo");
 	}
 
 }
